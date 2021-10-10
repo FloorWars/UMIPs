@@ -1,3 +1,9 @@
+# FloorWars fork to document UMIPs/umip_add_ETHfw10PUNK.md
+
+UMA's UMIPs repo was forked to add a UMIP proposal: "Add ETHfw10PUNK, fw10PUNKETH, USDfw10PUNK, and fw10PUNKUSD as supported price identifiers"
+
+This UMIP should eventually be PR'd into the main repo and given an UMIP number.
+
 # UMIPs
 
 This is a repository for UMA Improvement Proposals (UMIPs). 
