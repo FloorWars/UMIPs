@@ -7,7 +7,7 @@
 | Authors             | tomosaigon                                                    |
 | Status              | Draft                                                         |
 | Created             | October 7, 2021                                               |
-| Discourse Link      | **Create a post in [UMA's Discourse](https://discourse.umaproject.org/c/umips/18) and link here**            |
+| Discourse Link      | [Link](https://discourse.umaproject.org/t/add-ethfw10punk-fw10punketh-usdfw10punk-and-fw10punkusd-as-price-identifiers/1352)            |
 
 # Summary 
 
